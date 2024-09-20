@@ -1,5 +1,8 @@
+<!-- [![MasterHead](https://www.google.com/imgres?q=ethereum%20solidity%20banner%20image&imgurl=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fopen_graph_image%2F8958634%2Fog_image%2Foptimized%2Fethereum-solidity-oracle-contracts-pt2-cd3dbde2a52e64e709b7244efaf925b1.png&imgrefurl=https%3A%2F%2Fwww.toptal.com%2Fethereum%2Fethereum-solidity-oracle-contracts-pt2&docid=xGnLGG8sgAfhWM&tbnid=pfh21d5_P8YzlM&vet=12ahUKEwia5pnIztGIAxXzBdsEHd0tDoAQM3oECBsQAA..i&w=1720&h=900&hcb=2&ved=2ahUKEwia5pnIztGIAxXzBdsEHd0tDoAQM3oECBsQAA)] -->
+
 <h1 align="center">Hi 👋, I'm Phila Madondo</h1>
 <h3 align="center">A passionate developer from South Africa 🇿🇦</h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=coding%20solidity%20image&imgurl=https%3A%2F%2Fdavidburela.files.wordpress.com%2F2016%2F11%2Fimage3.png&imgrefurl=https%3A%2F%2Farchive.trufflesuite.com%2Fguides%2Fconfiguring-visual-studio-code%2F&docid=DOSY-Ja-1xnUuM&tbnid=I7b_28N82G7GfM&vet=12ahUKEwiSxaCWz9GIAxUBBdsEHV-OEq8QM3oECGUQAA..i&w=1020&h=768&hcb=2&ved=2ahUKEwiSxaCWz9GIAxUBBdsEHV-OEq8QM3oECGUQAA"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philam5&label=Profile%20views&color=0e75b6&style=flat" alt="philam5" /> </p>
 
@@ -33,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philam5&show_icons=true&locale=en" alt="philam5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philam5&" alt="philam5" /></p>
+
+- GitHub Update Template by: [Rishav Chanda](https://www.youtube.com/watch?v=G-EGDH50hGE&t=327s) - [here](https://github.com/rishavchanda)
