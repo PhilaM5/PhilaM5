@@ -37,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philam5&" alt="philam5" /></p>
 
-- GitHub Update Template by: [Rishav Chanda](https://www.youtube.com/watch?v=G-EGDH50hGE&t=327s) - [here](https://github.com/rishavchanda)
+- GitHub Update Template by: [Rishav Chanda](https://www.youtube.com/watch?v=G-EGDH50hGE&t=327s) - [here](https://github.com/rishavchanda) on GitHub
